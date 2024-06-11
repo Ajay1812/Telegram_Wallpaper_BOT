@@ -1,0 +1,13 @@
+venv
+.venv
+.env
+
+_pycache__/
+*.py[cod]
+*$py.class
+
+*.so
+docs/_build/
+.Python
+
+.DS_Store
