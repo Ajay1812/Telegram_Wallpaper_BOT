@@ -1,4 +1,4 @@
-# Wallpaper Collection Telegram Bot
+# Photos Backup Utility - Telegram Bot
 
 This Telegram bot allows users to access and download a curated collection of wallpapers.
 
