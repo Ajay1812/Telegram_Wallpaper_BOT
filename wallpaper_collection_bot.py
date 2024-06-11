@@ -26,10 +26,14 @@ async def main():
     # print(file_paths)
 
     for file in file_paths:
-        file_name = os.path.basename(file)
-        print("Uploading... :", file_name)
-        with open(file, 'rb') as file:
-            await bot.send_photo(chat_id=CHAT_ID, photo=file,caption=f"{file_name}")
+        try:
+            file_name = os.path.basename(file)
+            print("Uploading... :", file_name)
+            with open(file, 'rb') as file:
+                await bot.send_document(chat_id=CHAT_ID, document=file,caption=f"{file_name}")
+        except Exception as e:
+            print("Error: ", e)
+
 
     print("Files uploaded successfully.")
 
