@@ -20,15 +20,13 @@ This Telegram bot allows users to access and download a curated collection of wa
    CHAT_ID=your_chat_id_here
    ```
 
-````
-
 ## Run Locally
 
 Clone the project
 
 ```bash
   git clone https://github.com/Ajay1812/Telegram_Wallpaper_BOT.git
-````
+```
 
 Go to the project directory
 
