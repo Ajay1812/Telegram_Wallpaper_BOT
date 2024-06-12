@@ -33,7 +33,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0059.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0273.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0267.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallpapers/0298.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0307.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0105.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0111.jpg
@@ -64,7 +63,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0259.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0271.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0265.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallpapers/0098.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0073.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0067.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0063.jpg
@@ -81,7 +79,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0300.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0274.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0260.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallpapers/0248.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0089.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0076.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0062.jpg
@@ -94,7 +91,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0302.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0128.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0100.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallpapers/0114.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0115.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0101.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallpapers/0129.jpg
@@ -405,7 +401,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/66.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/601.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/99.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/173.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/403.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/8.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/588.jpg
@@ -444,7 +439,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/15.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/672.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/114.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/100.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/666.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/128.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/658.jpg
@@ -489,6 +483,8 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/304.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/648.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/106.jpg
+/Users/ajay/Documents/Personal/Wallpapers/wallpapers/0298.jpg
+/Users/ajay/Documents/Personal/Wallpapers/wallpapers/0248.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/660.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/674.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/689.jpg
@@ -505,7 +501,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/501.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/267.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/515.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/10.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/475.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/38.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/677.jpg
@@ -523,7 +518,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/336.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/450.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/295.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/732.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/518.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/256.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/242.jpg
@@ -547,7 +541,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/692.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/686.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/679.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/137.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/651.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/645.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/123.jpg
@@ -566,7 +559,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/334.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/308.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/485.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/491.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/644.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/136.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/650.jpg
@@ -586,7 +578,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/33.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/244.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/522.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/536.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/250.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/278.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/279.jpg
@@ -597,7 +588,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/696.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/331.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/457.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/494.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/669.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/127.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/641.jpg
@@ -608,7 +598,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/131.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/119.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/482.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/496.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/18.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/30.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/24.png
@@ -623,7 +612,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/246.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/534.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/285.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/25.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/19.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/454.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/497.jpg
@@ -644,7 +632,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/631.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/157.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/4.png
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/56.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/42.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/369.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/341.jpg
@@ -662,7 +649,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/591.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/432.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/426.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/43.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/5.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/630.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/624.jpg
@@ -697,7 +683,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/425.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/431.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/6.png
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/40.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/155.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/394.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/141.jpg
@@ -712,7 +697,6 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/384.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/179.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/347.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/44.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/2.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/582.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/596.jpg
@@ -754,151 +738,8 @@
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/53.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/1.png
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/595.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/581.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/542.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/219.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/225.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/543.jpg
 /Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/594.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/52.png
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/379.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/0.png
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/437.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/423.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/91.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/85.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/635.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/147.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/621.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/190.jpg
-/Users/ajay/Documents/Personal/Wallpapers/wallE/Wallpapers/wallpapers/184.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/futuristic-3840x2160-spaceship-future-world-4k-20317.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/counter-strike-2-3840x2160-4k-25116.jpeg
-/Users/ajay/Documents/Personal/Wallpapers/Download/gta-6-3840x2160-vice-city-fan-art-4k-24949.jpeg
-/Users/ajay/Documents/Personal/Wallpapers/Download/photo-1608501078713-8e445a709b39.jpeg
-/Users/ajay/Documents/Personal/Wallpapers/Download/spaceship-3840x2160-futuristic-clouds-4k-23187.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/minecraft-3840x2160-map-25713.jpeg
-/Users/ajay/Documents/Personal/Wallpapers/Download/minecraft-5120x2880-chest-25555.jpeg
-/Users/ajay/Documents/Personal/Wallpapers/Download/robot-5120x2880-forest-25383.jpeg
-/Users/ajay/Documents/Personal/Wallpapers/Download/starfield-3840x2160-screenshot-4k-24436.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/allgaeu-3840x2160-4k-5k-wallpaper-germany-mountains-hills-sky-6197.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/futuristic-3840x2160-future-world-4k-20321.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/cosmonaut-3840x2160-space-user-avatar-4k-25079.jpeg
-/Users/ajay/Documents/Personal/Wallpapers/Download/ocean-5120x2880-blue-water-4k-23244.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/s-t-a-l-k-e-r-2-3840x2160-skif-25501.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/roberto-h-qToVxSYXPYU-unsplash.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/deer_in_pine_forest.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/explorer_orange_sunset.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/escape_velocity.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/miracleOS_dark.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/rocky_land.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/wallpaperflare.com_wallpaper.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/city_bridge.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/river_to_castle_theme_blue.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/fish_2.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/wall_1.png
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/copper_mountain.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/apex_octane.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/neon_car.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/landscape.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/KlTM7ne - Imgur.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/winter_car.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/cyber.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/landscape-abstract-neon.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/612523.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/explorer_green_day.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/wallhaven1.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/groot_1.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/nordwall2.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/adwaita-d.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/wallhaven3.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/city_top_view.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/gdtography.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/green_sea.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/spaceship-start.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/nordwall3.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/evening-landscape.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/minimalist-game-2560-x-1600-wallpaper-egn02rr8sdn8mbq3.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/sebastian-svenson-d2w-_1LJioQ-unsplash.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/3d-tech.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/no-mans-land.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/wallhaven4.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/wallpaperflare.com_wallpaper (2).jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/mountain-sunrise.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/wallpaperflare.com_wallpaper (1).jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/comet.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/wp3867561-kid-naruto-wallpapers.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/lion_galaxy_purple.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/deer-mountain-sunset-minimalist-qn5tx0056jv9t8mu.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/lake-sunrise.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/adwaita-l.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/21635.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/northern-night.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/blue_night_moon_over_lake.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/neon_city.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/sebastian-unrau-sp-p7uuT0tw-unsplash.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/rocket_launch.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/tree.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/priyanuch_konkaew_unsplash.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/nature.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/aesthetic_deer.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/tony-lee-i_XLLP08BOc-unsplash.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/tron_legacy2.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/spaceship2.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/astronaut_jellyfish.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/liquid1.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/mountain_view.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/casey-horner-rtCujH697DU-unsplash.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/tron_legacy1.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/spaceship1.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/1329331.png
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/liquid2.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/miracleOS_light.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/midnight-reflections-moonlit-sea.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/tron_legacy4.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/default.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/tron_legacy5.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/lofoten1.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/night_city.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/tron_legacy6.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Download/old/lofoten2.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/rosepine.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/cobalt-2.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/iterm-default.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/campbell.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/gruvbox-dark.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/ayu-mirage copy.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/dark-grey.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/ir-black.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/material-darker.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/bluescreen.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/material-ocean.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/iceberg-light.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/onedark.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/nord-wave.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/gruvbox-light.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/gnome-dark.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/base16-default-dark.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/jellybeans.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/blood-moon.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/afterglow copy.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/nord.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/ayu-mirage.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/breeze.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/darkside.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/hybrid.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/kitty.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/argonaut copy.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/iceberg-dark.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/afterglow.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/dracula.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/hyper.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/wp5568817-archlinux-anime-wallpapers.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/87.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/monokay.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/argonaut.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/ayu-dark.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/darktooth.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/87 copy.jpg
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/base16-default-dark copy.png
-/Users/ajay/Documents/Personal/Wallpapers/Arch Linux/base16-default-dark copy 2.png
