@@ -44,10 +44,6 @@ Install dependencies
   python3 wallpaper_collection_bot.py
 ```
 
-## Credits
-
-This bot is developed and maintained by [Ajay1812]
-
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ajay-portfolio-de.netlify.app/)
